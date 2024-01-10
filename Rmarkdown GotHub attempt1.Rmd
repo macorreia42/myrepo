@@ -2,8 +2,12 @@
 title: "Rmarkdown GitHub attempt1"
 author: "MAC"
 date: "`r Sys.Date()`"
-output: github_document
-
+output: 
+  html_document: 
+    keep_md: true
+    code_folding: hide
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
