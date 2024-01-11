@@ -3,7 +3,7 @@
     "path": "C:/Temp/myrepo/Rmarkdown GotHub attempt1.Rmd",
     "project_path": "Rmarkdown GotHub attempt1.Rmd",
     "type": "r_markdown",
-    "hash": "1386908865",
+    "hash": "0",
     "contents": "",
     "dirty": true,
     "created": 1704823484716.0,
@@ -19,10 +19,10 @@
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "896:590"
+        "rmdVisualModeLocation": "771:590"
     },
     "folds": "",
-    "lastKnownWriteTime": 1704996516,
+    "lastKnownWriteTime": 1704996650,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
