@@ -1,0 +1,32 @@
+{
+    "id": "6A856618",
+    "path": "C:/Temp/myrepo/Rmarkdown GotHub attempt1.Rmd",
+    "project_path": "Rmarkdown GotHub attempt1.Rmd",
+    "type": "r_markdown",
+    "hash": "1386908865",
+    "contents": "",
+    "dirty": true,
+    "created": 1704823484716.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "35,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "896:590"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1704996457,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1704996461101,
+    "read_only": false,
+    "read_only_alternatives": []
+}

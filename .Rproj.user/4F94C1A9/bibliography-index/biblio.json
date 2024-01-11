@@ -1,0 +1,443 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1002/ajpa.24133",
+            "author": [
+                {
+                    "family": "Correia",
+                    "given": "Maria Ana"
+                },
+                {
+                    "family": "Foley",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Lahr",
+                    "given": "Marta Mirazón"
+                }
+            ],
+            "container-title": "American Journal of Physical Anthropology",
+            "id": "correia2020",
+            "issue": "August",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "1-13",
+            "title": "Applying dental microwear texture analysis to the living: Challenges and prospects",
+            "title-short": "Applying dental microwear texture analysis to the living",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1002/ajpa.23836",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.23836",
+            "author": [
+                {
+                    "family": "Ungar",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Livengood",
+                    "given": "Sarah"
+                },
+                {
+                    "family": "Crittenden",
+                    "given": "Alyssa"
+                }
+            ],
+            "container-title": "American Journal of Physical Anthropology",
+            "id": "ungar2019",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        11
+                    ]
+                ]
+            },
+            "page": "356-367",
+            "title": "Dental microwear of living hadza foragers",
+            "type": "article-journal",
+            "volume": "169"
+        },
+        {
+            "author": [
+                {
+                    "family": "Field",
+                    "given": "Andy"
+                },
+                {
+                    "family": "Miles",
+                    "given": "Jeremy"
+                },
+                {
+                    "family": "Field",
+                    "given": "Zoë"
+                }
+            ],
+            "id": "field2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "publisher": "SAGE Publications Ltd.",
+            "publisher-place": "London, United Kingdom",
+            "title": "Discovering statistics using r",
+            "type": "book"
+        },
+        {
+            "DOI": "http://dx.doi.org/10.18637/jss.v032.i03",
+            "author": [
+                {
+                    "family": "Todorov",
+                    "given": "Valentin"
+                },
+                {
+                    "family": "Filzmoser",
+                    "given": "Peter"
+                }
+            ],
+            "container-title": "Journal Of Statistical Software",
+            "id": "todorov2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "note": "ISBN: 1548-7660",
+            "page": "1-47",
+            "title": "An object oriented framework for robust multivariate analysis",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "DOI": "10/gjwcjd",
+            "URL": "https://doi.org/10.1177/0016986219890352",
+            "author": [
+                {
+                    "family": "Smith",
+                    "given": "Kendal"
+                },
+                {
+                    "family": "Lamb",
+                    "given": "Kristen"
+                },
+                {
+                    "family": "Henson",
+                    "given": "Robin"
+                }
+            ],
+            "container-title": "Gifted Child Quarterly",
+            "id": "smith2020",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "note": "Publisher: SAGE Publications Inc",
+            "page": "41-55",
+            "title": "Making meaning out of MANOVA: The need for multivariate post hoc testing in gifted education research",
+            "title-short": "Making meaning out of MANOVA",
+            "type": "article-journal",
+            "volume": "64"
+        },
+        {
+            "author": [
+                {
+                    "family": "Cohen",
+                    "given": "Jacob"
+                }
+            ],
+            "edition": "Second Edi",
+            "id": "cohen1988",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "publisher": "Lawrence Erlbaum Associates",
+            "publisher-place": "Hillsdale, New Jersey, USA",
+            "title": "Statistical power analysis for the behavioral sciences",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Carlson",
+                    "given": "David"
+                }
+            ],
+            "id": "carlson2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "language": "en",
+            "publisher": "Cambridge University Press",
+            "publisher-place": "Cambridge, UK",
+            "title": "Quantitative Methods in Archaeology Using R",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1002/ajpa.24133",
+            "author": [
+                {
+                    "family": "Correia",
+                    "given": "Maria Ana"
+                },
+                {
+                    "family": "Foley",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Lahr",
+                    "given": "Marta Mirazón"
+                }
+            ],
+            "container-title": "American Journal of Physical Anthropology",
+            "id": "correia2021",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "542-554",
+            "title": "Applying dental microwear texture analysis to the living: Challenges and prospects",
+            "title-short": "Applying dental microwear texture analysis to the living",
+            "type": "article-journal",
+            "volume": "174"
+        },
+        {
+            "URL": "https://www.iso.org/standard/74591.html",
+            "author": [
+                {
+                    "family": "ISO/TC 213"
+                }
+            ],
+            "id": "iso/tc2132021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "publisher": "International Organization for Standardization",
+            "publisher-place": "Geneva, Switzerland",
+            "title": "ISO 25178-2:2021 geometrical product specifications (GPS)  surface texture: Areal  part 2: Terms, definitions and surface texture parameters",
+            "title-short": "ISO 25178-2",
+            "type": "book"
+        },
+        {
+            "URL": "https://cran.r-project.org/web/packages/rstatix/rstatix.pdf",
+            "author": [
+                {
+                    "family": "Kassambara",
+                    "given": "Alboukadel"
+                }
+            ],
+            "id": "kassambara2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Rstatix: Pipe-friendly framework for basic statistical tests",
+            "title-short": "Rstatix",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1002/9781118445112.stat07841",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat07841",
+            "author": [
+                {
+                    "family": "Anderson",
+                    "given": "Marti J."
+                }
+            ],
+            "id": "anderson2017",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "language": "en",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118445112.stat07841 DOI: 10.1002/9781118445112.stat07841",
+            "page": "1-15",
+            "publisher": "John Wiley & Sons, Ltd",
+            "title": "Permutational Multivariate Analysis of Variance (PERMANOVA)",
+            "type": "chapter"
+        },
+        {
+            "URL": "https://cran.r-project.org/web/packages/RVAideMemoire/RVAideMemoire.pdf",
+            "author": [
+                {
+                    "family": "Herve",
+                    "given": "Maxime"
+                }
+            ],
+            "id": "herve2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        22
+                    ]
+                ]
+            },
+            "title": "Package ’RVAideMemoire’",
+            "type": "book"
+        },
+        {
+            "URL": "https://cran.r-project.org/web/packages/mvnormtest/mvnormtest.pdf",
+            "author": [
+                {
+                    "family": "Jarek"
+                }
+            ],
+            "id": "jarek2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        4,
+                        4
+                    ]
+                ]
+            },
+            "title": "Mvnormtest.pdf",
+            "type": "book"
+        },
+        {
+            "URL": "https://cran.r-project.org/web/packages/mvoutlier/mvoutlier.pdf",
+            "author": [
+                {
+                    "family": "Filzmoser",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Gschwandter",
+                    "given": "Moritz"
+                }
+            ],
+            "id": "filzmoser",
+            "title": "Package ’mvoutlier’: Multivariate outlier detection based on robust methods",
+            "title-short": "Package ’mvoutlier’",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1007/978-0-387-84858-7",
+            "URL": "http://link.springer.com/10.1007/978-0-387-84858-7",
+            "author": [
+                {
+                    "family": "Hastie",
+                    "given": "Trevor"
+                },
+                {
+                    "family": "Tibshirani",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Friedman",
+                    "given": "Jerome"
+                }
+            ],
+            "collection-title": "Springer series in statistics",
+            "id": "hastie2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "note": "DOI: 10.1007/978-0-387-84858-7",
+            "publisher": "Springer New York",
+            "publisher-place": "New York, NY",
+            "title": "The elements of statistical learning",
+            "type": "book"
+        },
+        {
+            "DOI": "10.20982/tqmp.13.1.p020",
+            "URL": "http://www.tqmp.org/RegularArticles/vol13-1/p020",
+            "author": [
+                {
+                    "family": "Friendly",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Sigal",
+                    "given": "Matthew"
+                }
+            ],
+            "container-title": "The Quantitative Methods for Psychology",
+            "id": "friendly2017",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "20-45",
+            "title": "Graphical methods for multivariate linear models in psychological research: An R tutorial",
+            "title-short": "Graphical methods for multivariate linear models in psychological research",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "URL": "https://cran.r-project.org/web/packages/HiDimDA/HiDimDA.pdf",
+            "author": [
+                {
+                    "family": "Silva",
+                    "given": "António"
+                }
+            ],
+            "id": "silva2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        10,
+                        18
+                    ]
+                ]
+            },
+            "title": "Package HiDimDA’ - high dimensional discriminant analysis",
+            "type": "book"
+        }
+    ],
+    "project_biblios": []
+}
